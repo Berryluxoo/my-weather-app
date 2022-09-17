@@ -1,0 +1,32 @@
+.imgCard {
+  border-radius: 40px;
+}
+
+.imgBorder {
+  border-radius: 35px;
+}
+
+.maskCard {
+  background-color: rgba(190, 216, 232, 0.5);
+}
+
+.yesterdayBac {
+  background-color: #eee;
+}
+.cardColor {
+  color: #aaa;
+}
+
+.linkSize {
+  font-size: 23px;
+  vertical-align: super;
+}
+#humidityValue {
+  font-weight: bold;
+}
+#windValue {
+  font-weight: bold;
+}
+#positionButton {
+  margin-left: 5px;
+}
